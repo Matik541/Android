@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cooking Book</string>
+    <string name="choose_food_type">Choose food category</string>
+    <string name="choose_recipe">Choose recipe</string>
+    <string name="category">Category: </string>
+    <string name="name">Name</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="share">Share</string>
+    <string name="shareContent">"Check this recipe "</string>
+    <string name="shareEnjoy">Enjoy your meal!</string>
+    <string name="add">Add</string>
+    <string-array name="categories">
+        <item>Breakfast</item>
+        <item>Dinner</item>
+        <item>Dessert</item>
+        <item>Drink</item>
+    </string-array>
+</resources>

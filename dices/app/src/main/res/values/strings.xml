@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Poker</string>
+    <string name="dice">Roll</string>
+    <string name="score">"Score: "</string>
+</resources>

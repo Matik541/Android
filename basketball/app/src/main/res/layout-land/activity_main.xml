@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:theme="@style/ThemeOverlay.Basketballl.FullscreenContainer"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/layoutA"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#EF5350"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:layout_weight="1">
+
+        <TextView
+            android:id="@+id/scoreA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/btnA1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#B71C1C"
+            android:text="@string/p1"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnA2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#B71C1C"
+            android:text="@string/p2"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnA3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#B71C1C"
+            android:text="@string/p3"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layoutB"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#42A5F5"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/scoreB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:textColor="#1A237E"
+            android:textSize="34sp" />
+
+        <Button
+            android:id="@+id/btnB1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1A237E"
+            android:text="@string/p1"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnB2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1A237E"
+            android:text="@string/p2"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btnB3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#1A237E"
+            android:text="@string/p3"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+</LinearLayout>

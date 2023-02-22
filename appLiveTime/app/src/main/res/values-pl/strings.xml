@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">appLiveTime</string>
+    <string name="up_arrow">strzałka w górę</string>
+    <string name="down_arrow">strzałka w dół</string>
+    <string name="left_arrow">strzałka w lewo</string>
+    <string name="right_arrow">strzałka w prawo</string>
+</resources>

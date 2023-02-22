@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">basketballl</string>
+    <string name="p1">+1</string>
+    <string name="p2">+2</string>
+    <string name="p3">+3</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

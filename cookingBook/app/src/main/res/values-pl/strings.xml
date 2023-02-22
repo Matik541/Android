@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cooking Book</string>
+    <string name="choose_food_type">Wybierz kategorię</string>
+    <string name="choose_recipe">Wybierz przepis</string>
+    <string name="category">Kategoria</string>
+    <string name="share">Udostępnij</string>
+    <string name="shareContent">"Sprawdź ten przepis "</string>
+    <string name="shareEnjoy">Smacznego!</string>
+    <string name="add">Dodaj</string>
+    <string name="ingredients">Składniki</string>
+    <string name="name">Nazwa</string>
+</resources>

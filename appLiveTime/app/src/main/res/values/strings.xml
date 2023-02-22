@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appLiveTime</string>
+    <string name="up_arrow">up arrow</string>
+    <string name="down_arrow">down arrow</string>
+    <string name="left_arrow">left arrow</string>
+    <string name="right_arrow">right arrow</string>
+</resources>

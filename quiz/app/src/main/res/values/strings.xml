@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="help">Help</string>
+    <string name="check">Check</string>
+    <string name="back">Back</string>
+
+    <string name="image_description">Image of a cat</string>
+    <string name="help_text">K2, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, after Mount Everest (at 8,849 metres (29,032 ft)). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in a China-administered territory of the Kashmir region included in the Taxkorgan Tajik Autonomous County of Xinjiang. K2 also became popularly known as the Savage Mountain after George Bell—a climber on the 1953 American expedition—told reporters, "1It\'s a savage mountain that tries to kill you." Of the five highest mountains in the world, K2 is the deadliest; approximately one person dies on the mountain for every four who reach the summit. Also occasionally known as Mount Godwin-Austen, other nicknames for K2 are The King of Mountains and The Mountaineers\' Mountain, as well as The Mountain of Mountains after prominent Italian climber Reinhold Messner titled his book about K2 the same.</string>
+    <string name="question">What is the capital of Germany?</string>
+    <string name="anwser1">Berlin</string>
+    <string name="anwser2">Hamburg</string>
+    <string name="anwser3">Munich</string>
+    <string name="anwser4">Cologne</string>
+</resources>

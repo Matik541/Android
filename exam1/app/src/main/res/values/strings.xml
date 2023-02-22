@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exam1</string>
+    <string name="roll_the_dice">Roll the dice!</string>
+    <string name="roll">Roll</string>
+    <string name="value_0">Value can\'t be 0!</string>
+    <string name="value_7">Value can\'t be 7!</string>
+</resources>
