@@ -12,8 +12,8 @@
         android:layout_height="wrap_content"
         android:text="00:00:00"
         android:textSize="34sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/resetBtn"
+        app:layout_constraintBottom_toTopOf="@+id/startBtn"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -23,8 +23,8 @@
         android:layout_height="wrap_content"
         android:text="Send"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/resetBtn"
-        app:layout_constraintStart_toStartOf="@+id/resetBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/resetBtn" />
 
     <Button
@@ -33,9 +33,9 @@
         android:layout_height="48dp"
         android:text="Start"
         app:layout_constraintBottom_toTopOf="@+id/resetBtn"
-        app:layout_constraintEnd_toEndOf="@+id/resetBtn"
-        app:layout_constraintStart_toStartOf="@+id/resetBtn"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/timerText" />
 
     <Button
         android:id="@+id/resetBtn"
@@ -44,7 +44,7 @@
         android:text="Reset"
         app:layout_constraintBottom_toTopOf="@+id/sendBtn"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/timerText"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/startBtn" />
 
     <TextView
