@@ -53,7 +53,6 @@ public class Player {
         timerText.setText(String.format("%02d:%02d", seconds/60, seconds%60));
         if(seconds < 15) {
 //            change text color to red
-            timerText.setTextColor();
         }
     }
 
